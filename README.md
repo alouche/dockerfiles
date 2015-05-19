@@ -10,6 +10,10 @@ The versions should always be latest.
 
 docker pull alouche/mesosphere:mesos
 
+### Marathon
+
+docker pull alouche/mesosphere:marathon
+
 ### Chronos
 
 docker pull alouche/mesosphere:chronos
